@@ -1,0 +1,15 @@
+# https://github.com/actions/labeler
+
+documentation:
+  - changed-files:
+    - any-glob-to-any-file:
+      - '**/*.md'
+      - '**/*.markdown'
+
+quarterly-patching:
+  - head-branch: ['^patching-*-q?-*']
+
+workflow:
+  - changed-files:
+    - any-glob-to-any-file:
+      - .github/**/*
