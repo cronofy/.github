@@ -1,4 +1,4 @@
-## Scheduling Infrastructure For Your Applications
+## Embedded Scheduling Infrastructure For Your Applications
 
 Building scheduling infrastructure and workflows from scratch isn’t easy, which is why Cronofy is chosen by high-performance engineering teams who need scheduling features designed to operate at scale. Our APIs and tools enable developers and product managers to integrate real-time calendar synchronization, availability management, and scheduling workflows seamlessly into their products.
 
